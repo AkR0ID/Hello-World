@@ -74,9 +74,9 @@ R
     so much data (AnDroids, SLEEP!>!)
     BAAAAA!
     Waste, uPAe, obj.undefined 
-    i if 0 is .1.1
-    e if 0 is 0.1.1 
-    u if 0 is B!.1rnApAabx.UCSC 
+    i if 0:.1.1
+    e if 0:.1.1 
+    u if 0 ::: B!.1rnApAabx.UCSC 
 
 
     
